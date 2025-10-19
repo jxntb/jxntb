@@ -1,5 +1,5 @@
 # About Me:
-👋 Hey, my names Jackson—I'm a postdoc at the Vrije Universiteit Amsterdam. <br>🔬 I work at an intersection of neuroimaging, movement science, and neuromodulation; focusing on improving therapies for Parkinson's disease. <br>🧠 Recently been diving into adaptive deep brain stimulation (aDBS) and neurotech ethics. <br>🤝 Always happy to connect with others into neuroscience, machine learning, or clever facts. 
+👋 Hey, my names Jackson—I'm a postdoc at the Vrije Universiteit Amsterdam. <br>🔬 I work at an intersection of neuroimaging, movement science, and neuromodulation; focusing on improving therapies for Parkinson's disease. <br>🧠 Currently researching adaptive deep brain stimulation (aDBS) and neurotech ethics. <br>🤝 Always happy to connect with others about neuroscience, machine learning, or random facts. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jackson.boonstra) 
