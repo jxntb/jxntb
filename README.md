@@ -8,12 +8,14 @@
 ## Featured projects
 
 ### Polyconnectomic Scoring of Functional Connectivity Patterns Across Eight Neuropsychiatric and Three Neurodegenerative Disorders
-A neuroimaging toolbox for calculating polyconnectomic scores (PCS) from functional connectivity data. 
+A neuroimaging toolbox for calculating polyconnectomic scores (PCS) from functional connectivity data.
+
 Repo: https://github.com/dutchconnectomelab/pcs-toolbox  
 Paper: https://doi.org/10.1016/j.biopsych.2024.10.007
 
 ### Amsterdam Local Field Potential Analysis (ALFA) toolbox
-A MATLAB toolbox for extracting, processing, restructuring, and visualizing local field potential data from Medtronic Percept recordings. 
+A MATLAB toolbox for extracting, processing, restructuring, and visualizing local field potential data from Medtronic Percept recordings.
+
 Repo: https://github.com/Data-Driven-Brain-Stimulation/ALFA-toolbox  
 Paper: https://doi.org/10.1016/j.brs.2026.103071
 
