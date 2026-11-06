@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hello, I’m Jackson, a postdoctoral researcher at Vrije Universiteit Amsterdam.  
+👋 Hello, I’m Jackson, a postdoctoral researcher at Technische Universität München
 🔬 My work sits at the intersection of neuroimaging, movement science, and neuromodulation, with a focus on Parkinson’s disease and adaptive deep brain stimulation.  
 🧠 I am especially interested in translating neurophysiological signals into tools that support more personalized treatment.  
 🤝 I also enjoy collaborating on open research software, reproducible analysis pipelines, and ethical questions around emerging neurotechnologies.
